@@ -70,8 +70,8 @@ font-size: 15px;overflow:auto;width: 1000px;}
 /* Table */
 table, th, td {
     border: 0px solid black;
-    padding: 5px;
-    padding-right: 20px;
+    padding: 10px;
+    padding-right: 0px;
 
 }
 
