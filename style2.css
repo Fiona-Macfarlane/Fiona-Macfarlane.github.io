@@ -1,6 +1,6 @@
 
 /*Set the font size for the whole file*/
-html,body{font-family:Arial, Helvetica, sans-serif;font-size:20px;line-height:1.5;}
+html,body{font-family:Arial, Helvetica, sans-serif;font-size:100%;line-height:1.5;}
 body {
 	margin-top: 20px;
 	margin-bottom: 2%;
