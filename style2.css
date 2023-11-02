@@ -72,8 +72,8 @@ font-size: 20px;overflow:auto;width: 1100px;}
 
 table, th, td {
     border: 0px solid black;
-    padding: 5px;
-    padding-right: 5px;
+    padding: 0px;
+    padding-right: 0px;
 
 }
 
